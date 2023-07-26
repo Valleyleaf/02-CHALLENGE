@@ -15,7 +15,7 @@ For educational purposes only. Not for redistribution.
 
 ## Credits
 
-Xandromus Xander Rapstine
+Xandromus Xander Rapstine,
 Aston Andersson Dahllof
 
 ## License
