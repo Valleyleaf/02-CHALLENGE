@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This is a basic project to learn about good standards in the coding industry. I made this project to better understand what to expect in the future of the industry that I wish to enter. By creating this project
 I was able to learn how to do basic debugging, formating proper semantic HTLM, optimize CSS classes and also how to manage my repository.
 
