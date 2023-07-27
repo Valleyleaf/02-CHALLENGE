@@ -7,7 +7,7 @@ I was able to learn how to do basic debugging, formating proper semantic HTLM, o
 
 ## Installation
 
-No Installation needed.
+Download the files and open index.HTML in a browser of your choice.
 
 ## Usage
 
